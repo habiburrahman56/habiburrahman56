@@ -33,8 +33,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://camo.githubusercontent.com/078691d0521a740b4c1325c9bba4f6395f02f6c9f32046be920a5db61ff1269e/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d4e61736972756c2d49736c616d2d43686f776468757279267468656d653d6461726b" />
+  <img src="https://camo.githubusercontent.com/6ac36fa2e9dc3f77f3d3ac021655acb699ba15743ccff1308a4b1def00f7e624/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d4e61736972756c2d49736c616d2d43686f776468757279267468656d653d6461726b" />
+</p>
+<p align="center">
+<img src="https://camo.githubusercontent.com/f5aec125db5cc071260e834ed696f2ddcbb29c36e4b3e324d4d4c8f3f6b025f0/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d4e61736972756c2d49736c616d2d43686f776468757279266c6f63616c653d656e266d6f64653d6461696c79267468656d653d6461726b26686964655f626f726465723d7472756526626f726465725f7261646975733d30266f726465723d33" />
 </p>
 
 ---
@@ -55,6 +58,7 @@
   <a href="[https://twitter.com/yourprofile](https://x.com/habibirrahman56)"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="habiburrahmanmunna56@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
+
 
 ---
 
