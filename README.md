@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-13-5/crux.png" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
 </p>
 
