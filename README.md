@@ -41,9 +41,9 @@
 
 
 
+![Munna's Rank](https://github-readme-stats.vercel.app/api?username=munna&show_icons=true&theme=react-dark&rank_icon=github)
 
-
-![Munna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munna&show_icons=true&theme=radical&count_private=true)
+![Munna's Rank](https://github-readme-stats.vercel.app/api?username=munna&theme=react-dark&show_icons=true)
 
 
 
