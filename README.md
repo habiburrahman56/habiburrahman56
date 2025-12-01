@@ -32,22 +32,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://camo.githubusercontent.com/078691d0521a740b4c1325c9bba4f6395f02f6c9f32046be920a5db61ff1269e/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d4e61736972756c2d49736c616d2d43686f776468757279267468656d653d6461726b" />
-  <img src="https://camo.githubusercontent.com/6ac36fa2e9dc3f77f3d3ac021655acb699ba15743ccff1308a4b1def00f7e624/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d4e61736972756c2d49736c616d2d43686f776468757279267468656d653d6461726b" />
-</p>
-<p align="center"> -->
-
-
-
-
-![Munna's Rank](https://github-readme-stats.vercel.app/api?username=munna&show_icons=true&theme=react-dark&rank_icon=github)
-
-![Munna's Rank](https://github-readme-stats.vercel.app/api?username=munna&theme=react-dark&show_icons=true)
-
-
-
-
 ![Munna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=munna&theme=react-dark&area=true&hide_border=false)
 
 
