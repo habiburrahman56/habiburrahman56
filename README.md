@@ -40,11 +40,14 @@
 
 
 
-![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
+![Munna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munna&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
+![Munna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munna&layout=compact&theme=radical)
 
-![Munna's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Munna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munna&layout=compact&theme=radical)
+
+![Munna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=munna&theme=react-dark&area=true&hide_border=false)
+
 
 
 
