@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Munna</h1>
-<h3 align="center">A Passionate Frontend Designer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend developer from Bangladesh</h3>
 
 
 <!-- Typing Animation -->
