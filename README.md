@@ -18,7 +18,7 @@
 - 🌱 Currently learning advanced **React** and **Next.js**
 - 💬 Ask me about **responsive design** and **UI/UX trends**
 - 📫 Reach me at: habiburrahmanmunna56@gmail.com
-- 🌍 Portfolio: https://github.com/habibur-rahman-munna/Personal-Portfolio.git
+- 🌍 Portfolio: https://getmunna.netlify.app
 
 ---
 
