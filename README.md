@@ -39,7 +39,23 @@
 <p align="center">
 
 
-![Munna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munna&show_icons=true&theme=radical)
+[![Munna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munna&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dummyuser&show_icons=true&theme=radical&count_private=true
+)
+![Dummy GitHub Stats](https://github-readme-stats.vercel.app/api?username=dummyuser&show_icons=true&theme=radical&count_private=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=dummyuser&layout=compact&theme=radical
+
+![Dummy Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dummyuser&layout=compact&theme=radical)
+
+https://github-readme-activity-graph.vercel.app/graph?username=dummyuser&theme=react-dark&area=true&hide_border=false
+
+
+
+
+
+
+
+
+
 ![Munna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=munna&theme=react-dark&area=true&hide_border=false)
 
 
