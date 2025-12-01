@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Munna</h1>
-<h3 align="center">A Passionate Frontend developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
 
 <!-- Typing Animation -->
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 💼 I’m a **Front-End Designer**
+- 💼 I’m a **Front-End Developer**
 - 🧠 I’m skilled in:  
   `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `Tailwind CSS`, `React`, `TypeScript`, `Next.js`
 - 🌱 Currently learning advanced **React** and **Next.js**
